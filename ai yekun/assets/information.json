@@ -1,0 +1,35 @@
+[
+    {
+        "card_name":"Naxly as the Winners in Global Agency Awards",
+        "card_main":"Lorem ipsum is placeholder text commonly used in print, and publishing industries for previewing layouts and visual mockups.",
+        "card_photo":"assets/images/cards/card1.svg"
+    },
+    
+    {
+        "card_name":"Expert Prespective Agency Awards",
+        "card_main":"Lorem ipsum is placeholder text commonly used in print, and publishing industries for previewing layouts and visual mockups.",
+        "card_photo":"assets/images/cards/card2.svg"
+    },
+
+    {
+        "card_name":"Business Prespective Global Agency Awards",
+        "card_main":"Lorem ipsum is placeholder text commonly used in print, and publishing industries for previewing layouts and visual mockups.",
+        "card_photo":"assets/images/cards/card3.svg"
+    },
+
+    {
+        "card_name":"Value for Results in Global Agency Awards",
+        "card_main":"Lorem ipsum is placeholder text commonly used in print, and publishing industries for previewing layouts and visual mockups.",
+        "card_photo":"assets/images/cards/card4.svg"
+    },
+
+    {
+        "card_name":"Global Experience in Agency Awards",
+        "card_main":"Lorem ipsum is placeholder text commonly used in print, and publishing industries for previewing layouts and visual mockups.",
+        "card_photo":"assets/images/cards/card5.svg"
+    }
+
+    
+
+]
+    
